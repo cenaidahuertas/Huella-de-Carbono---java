@@ -60,7 +60,6 @@ public class AplicacionHuellaCarbono {
         System.out.println("==============================================");
         System.out.println("      CALCULO DE HUELLA DE CARBONO");
         System.out.println("==============================================");
-        System.out.println("Ejercicio sencillo usando interfaz y polimorfismo.");
         System.out.println();
     }
 }
