@@ -1,0 +1,12 @@
+REPORTE DE HUELLA DE CARBONO
+--------------------------------------
+Edificio: Biblioteca del barrio | Direccion: Calle 10 # 15-20 | Pisos: 3 | Ocupantes: 40
+Huella de carbono: 1400,00 kg de CO2
+--------------------------------------
+Carro: Mazda 2 | Año: 2018 | Color: Gris | Combustible: GASOLINA
+Huella de carbono: 1916,67 kg de CO2
+--------------------------------------
+Bicicleta de Laura | Marca: GW | Tipo: URBANA | Cambios: 7
+Huella de carbono: 11,00 kg de CO2
+--------------------------------------
+Total general: 3327,67 kg de CO2
