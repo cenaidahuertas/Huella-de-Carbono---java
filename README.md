@@ -86,38 +86,7 @@ Es la clase principal que:
 ### `GestorArchivo`
 Guarda el reporte en un archivo de texto.
 
-## 4. Principios de POO aplicados
-
-- Encapsulamiento: los atributos son privados y se accede a ellos con getters y setters.
-- Abstraccion: la interfaz `HuellaCarbono` define el comportamiento comun.
-- Polimorfismo: un mismo metodo (`getHuellaCarbono`) se comporta diferente segun el objeto.
-- Organizacion simple del sistema: cada clase cumple una funcion concreta.
-
-## 5. Principio SOLID aplicado
-
-Se aplico especialmente el principio de responsabilidad unica:
-
-- `Edificio`, `Carro` y `Bicicleta` modelan entidades.
-- `AplicacionHuellaCarbono` ejecuta el programa.
-- `GestorArchivo` maneja el archivo de salida.
-
-## 6. Pruebas
-
-Se dejaron pruebas simples en Java puro:
-
-- `PruebaEdificio`
-- `PruebaCarro`
-- `PruebaBicicleta`
-- `PruebaIntegracionHuellaCarbono`
-
-Estas pruebas validan:
-
-- calculos de huella
-- funcionamiento de metodos
-- uso del polimorfismo
-- funcionamiento general del programa
-
-## 7. Como ejecutar
+## 4. Como ejecutar
 
 Compilar:
 
@@ -139,7 +108,3 @@ java PruebaCarro
 java PruebaBicicleta
 java PruebaIntegracionHuellaCarbono
 ```
-
-## 8. Conclusion
-
-La solucion cumple con el caso de estudio porque implementa tres clases independientes, una interfaz comun, el uso de `ArrayList<HuellaCarbono>`, polimorfismo, calculo de huella de carbono, documentacion basica y pruebas del programa.
